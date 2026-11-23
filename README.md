@@ -1,4 +1,4 @@
-:::writing{variant="document" id="83621"}
+
 # Wallet Management System
 
 A secure RESTful Wallet Management System built using Java and Spring Boot. The application allows users to register, authenticate, manage their wallet balance, add money, transfer money to other wallets, and view transaction history. It also provides administrative APIs to view all wallets and transactions.
