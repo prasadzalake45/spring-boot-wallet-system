@@ -1,3 +1,7 @@
+<<<<<<< HEAD
+=======
+
+>>>>>>> e0b1b30c78c296fc04d9ed313ed5c7b6bd7b94f7
 # Wallet Management System
 
 A secure RESTful Wallet Management System built using Java and Spring Boot. The application allows users to register, authenticate, manage their wallet balance, add money, transfer money to other wallets, and view transaction history. It also provides administrative APIs to view all wallets and transactions.
@@ -405,4 +409,7 @@ The API returns appropriate HTTP error responses based on the application's exce
 **Prasad Zalake**
 
 Java | Spring Boot | REST APIs | Spring Security | Hibernate | SQL
+<<<<<<< HEAD
 
+=======
+>>>>>>> e0b1b30c78c296fc04d9ed313ed5c7b6bd7b94f7
